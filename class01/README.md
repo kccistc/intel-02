@@ -40,7 +40,7 @@
 | Jun Hee Na (akaError404) | O | O |  |  | Max |
 | Jae Byeong Park (Park-Jae-Byeong) | O | * |  |  | Max |
 | SeogHyun Ahn (User3198352) | O | * |  |  | Max |
-| Jinho Kim (0419jinho) | O | * |  |  | Max |
+| Jinho Kim (0419jinho) | O | O |  |  | Max |
 | Yeongdae Kim (roby238) | O | * |  |  | Max |
 | Youngsik Cho (daron135) | O | O |  |  | Max |
 | Chungu Gwon (kcg0118) | O | * |  |  | Max |
