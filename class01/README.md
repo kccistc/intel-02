@@ -33,7 +33,7 @@
 * HW#1 : my-project github repository 제출
 * HW#2 : [https://github.com/kccistc/intel-02/issues/5](https://github.com/kccistc/intel-02/issues/5)
 
-| 영문이름 (디렉토리)           | HW#1 | HW#2 | HW#3 | 최종 파일 | Reviewer |
+| 영문이름 (GitHub id)           | HW#1 | HW#2 | HW#3 | 최종 파일 | Reviewer |
 |------------------------|------|------|------|----------|----------|
 | Jooeun Park (jjooeun) | O | * |  |  | Max |
 | Jong-hyeok Oh (rojong00) | O | * |  |  | Max |
