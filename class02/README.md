@@ -30,31 +30,26 @@
 
 ### 제출현황
 
-| 영문이름 (디렉토리)           | HW#1 | HW#2 | HW#3 | 최종 파일 | Reviewer |
+| 영문이름 (GitHub id)           | HW#1 | HW#2 | HW#3 | 최종 파일 | Reviewer |
 |------------------------|------|------|------|----------|----------|
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Brandon |
-| KimYoungHee  | O | O | O | O | Jerry |
-| KimYoungHee  | O | O | O | O | Jerry |
-| KimYoungHee  | O | O | O | O | Jerry |
-| KimYoungHee  | O | O | O | O | Jerry |
-| KimYoungHee  | O | O | O | O | Jerry |
-| KimYoungHee  | O | O | O | O | Jerry |
-| KimYoungHee  | O | O | O | O | Jerry |
-| KimYoungHee  | O | O | O | O | Jerry |
-| KimYoungHee  | O | O | O | O | Jerry |
-| KimYoungHee  | O | O | O | O | Jerry |
-
+| Jooeun Park (jjooeun) |  |  |  |  | Brandon |
+| Jong-hyeok Oh (rojong00) |  |  |  |  | Brandon |
+| Jun Hee Na (akaError404) |  |  |  |  | Brandon |
+| Jae Byeong Park (Park-Jae-Byeong) |  |  |  |  | Brandon |
+| SeogHyun Ahn (User3198352) |  |  |  |  | Brandon |
+| Jinho Kim (0419jinho) |  |  |  |  | Brandon |
+| Yeongdae Kim (roby238) |  |  |  |  | Brandon |
+| Youngsik Cho (daron135) |  |  |  |  | Brandon |
+| Chungu Gwon (kcg0118) |  |  |  |  | Brandon |
+| Yurim Lee (66yurimi99) |  |  |  |  | Brandon |
+| SeungKwon Yu (blackgetter) |  |  |  |  | Brandon |
+| YoungMoon Park (ParkYoungMoon) |  |  |  |  | Jerry |
+| Hyung eun Kim (khe8402) |  |  |  |  | Jerry |
+| Insung Jeong (jis0202) |  |  |  |  | Jerry |
+| Gyuseung Seo (dnfm257) |  |  |  |  | Jerry |
+| hyeanhong An (simpleis6est) |  |  |  |  | Jerry |
+| JUNGJAE HAN (jungjaeJJ) |  |  |  |  | Jerry |
+| Eun Young Kim (Eun04) |  |  |  |  | Jerry |
+| Yu Nayeong (YuNayeong) |  |  |  |  | Jerry |
+| SungWoo Cho (nnonames) |  |  |  |  | Jerry |
+| ? (조퇴)  |  |  |  |  | Jerry |
