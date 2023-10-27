@@ -45,7 +45,7 @@
 | SeungKwon Yu (blackgetter) |  |  |  |  | Brandon |
 | YoungMoon Park (ParkYoungMoon) |  |  |  |  | Jerry |
 | Hyung eun Kim (khe8402) |  |  |  |  | Jerry |
-| Insung Jeong (jis0202) |  |  |  |  | Jerry |
+| Inseong Jeong (jis0202) |  |  |  |  | Jerry |
 | Gyuseung Seo (dnfm257) |  |  |  |  | Jerry |
 | hyeanhong An (simpleis6est) |  |  |  |  | Jerry |
 | JUNGJAE HAN (jungjaeJJ) |  |  |  |  | Jerry |
