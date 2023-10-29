@@ -6,19 +6,22 @@ cap = cv2.VideoCapture(0)
 topLeft = (50, 50)
 bottomRight = (300, 300)
 
-frame = []
+pos = []
 
 def onMouseClicked(event, x, y, flags, param):
     global frame
     if event == cv2.EVENT_LBUTTONDOWN:
-        cv2.circle(frame, (x, y), 60, (255, 0, 0), 3, cv2.LINE_AA)
-        cv2.imshow("Camera", frame)
+        pos.append((x, y))
     
 cv2.namedWindow('Camera')
+
+# Event : activated when the left mouse clicked    
+cv2.setMouseCallback('Camera', onMouseClicked)
 
 # 성공적으로 video device 가 열렸으면 while 문 반복
 while(cap.isOpened()):
     # 한 프레임을 읽어옴
+    global frame
     ret, frame = cap.read()
     if ret is False:
         print("Can't receive frame (stream end?). Exiting ...")
@@ -34,17 +37,20 @@ while(cap.isOpened()):
     # Text 
     font = cv2.FONT_HERSHEY_SIMPLEX
     cv2.putText(frame, 'me', [pt+80 for pt in topLeft], font, 2, (0, 255, 255), 10)
-      
-    # Event : Mouse Left Clicked
-    cv2.setMouseCallback('Camera', onMouseClicked)
-
-    # Display
-    cv2.imshow("Camera", frame)
+    
+    # Circle
+    for p in pos:
+        cv2.circle(frame, p, 60, (255, 255, 255), 3)
 
     # 1 ms 동안 대기하며 키 입력을 받고 'q' 입력 시 종료
     key = cv2.waitKey(1)
     if key & 0xFF == ord('q'):
         break
+
+
+    # Display
+    cv2.imshow("Camera", frame)
+
 
 cap.release()
 cv2.destroyAllWindows()
