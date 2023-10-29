@@ -25,6 +25,9 @@ def on_mouse(event, x, y, flags, params):
 windowTitle = "Camera"
 cv2.namedWindow(windowTitle)
 
+# Set Callback function
+cv2.setMouseCallback(windowTitle, on_mouse)
+
 while(cap.isOpened()):
     ret, frame = cap.read()
     if ret is False:
@@ -48,8 +51,6 @@ while(cap.isOpened()):
 
     
     # [TODO 2] 마우스 왼쪽 버튼 클릭 시, 원 그리기
-    cv2.setMouseCallback(windowTitle, on_mouse)
-
     if center != None:
         cv2.circle(frame, center, 10, (255, 255, 0), 2)
 
