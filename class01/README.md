@@ -35,24 +35,24 @@
 
 | 영문이름 (GitHub id)           | HW#1 | HW#2 | HW#3 | 최종 파일 | Reviewer |
 |------------------------|------|------|------|----------|----------|
-| Jooeun Park (jjooeun) | O | * |  |  | Max |
-| Jong-hyeok Oh (rojong00) | O | * |  |  | Max |
+| Jooeun Park (jjooeun) | O | O |  |  | Max |
+| Jong-hyeok Oh (rojong00) | O | O |  |  | Max |
 | Jun Hee Na (akaError404) | O | O |  |  | Max |
-| Jae Byeong Park (Park-Jae-Byeong) | O | * |  |  | Max |
-| SeogHyun Ahn (User3198352) | O | * |  |  | Max |
+| Jae Byeong Park (Park-Jae-Byeong) | O | O |  |  | Max |
+| SeogHyun Ahn (User3198352) | O | O |  |  | Max |
 | Jinho Kim (0419jinho) | O | O |  |  | Max |
-| Yeongdae Kim (roby238) | O | * |  |  | Max |
+| Yeongdae Kim (roby238) | O | O |  |  | Max |
 | Youngsik Cho (daron135) | O | O |  |  | Max |
-| Chungu Gwon (kcg0118) | O | * |  |  | Max |
-| Yurim Lee (66yurimi99) | O | * |  |  | Max |
-| SeungKwon Yu (blackgetter) | O | * |  |  | Max |
+| Chungu Gwon (kcg0118) | O | O |  |  | Max |
+| Yurim Lee (66yurimi99) | O | O |  |  | Max |
+| SeungKwon Yu (blackgetter) | O | O |  |  | Max |
 | YoungMoon Park (ParkYoungMoon) | O | * |  |  | Gabriel |
 | Hyung eun Kim (khe8402) | O | * |  |  | Gabriel |
-| Insung Jeong (jis0202) | O | * |  |  | Gabriel |
+| Inseong Jeong (jis0202) | O | O |  |  | Gabriel |
 | Gyuseung Seo (dnfm257) | O | O |  |  | Gabriel |
 | hyeanhong An (simpleis6est) | O | O |  |  | Gabriel |
-| JUNGJAE HAN (jungjaeJJ) | O | * |  |  | Gabriel |
+| JUNGJAE HAN (jungjaeJJ) | O | O |  |  | Gabriel |
 | Eun Young Kim (Eun04) | * | * |  |  | Gabriel |
-| Yu Nayeong (YuNayeong) | * | * |  |  | Gabriel |
+| Yu Nayeong (YuNayeong) | O | O |  |  | Gabriel |
 | SungWoo Cho (nnonames) | * | * |  |  | Gabriel |
 | ? (조퇴)  | X | X |  |  | Gabriel |
