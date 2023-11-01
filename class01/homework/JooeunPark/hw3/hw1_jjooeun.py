@@ -16,18 +16,14 @@ def on_mouse(event, x, y, flag, param):
 
         cv2.imshow("Camera", frame)
     
-# 성공적으로 video device 가 열렸으면 while 문 반복
 while(cap.isOpened()):
-    # 한 프레임을 읽어옴
     ret, frame = cap.read()
     if ret is False:
         print("Can't receive frame (stream end?). Exiting ...")
         break
 
-    # Display
     cv2.imshow("Camera",frame)
 
-    # 1 ms 동안 대기하며 키 입력을 받고 'q' 입력 시 종료
     key = cv2.waitKey(1)
     if key & 0xFF == ord('q'):
         break
