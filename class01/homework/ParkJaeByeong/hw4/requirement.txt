@@ -1,0 +1,5 @@
+openvino>=2023.1.0
+opencv-python requests tqdm
+opencv-python
+ipython[all]
+openvino
