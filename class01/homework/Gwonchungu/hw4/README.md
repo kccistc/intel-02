@@ -13,8 +13,10 @@ source env/bin/activate
 touch hw4.py
 vi hw4.py
 pip install opencv-python
-
-
-
+pip install ipython
+pip install ipywidgets
+pip install openvino
+pip install tqdm
+pip install requests
 python hw4.py
 ```
