@@ -60,4 +60,5 @@ find ./ -maxdepth 2 –type d | while read –r dir; do printf “%s:\t” “$d
     http://download.tensorflow.org/example_images/flower_photos.tgz
 
 * Dogs & cats:
-    https://shorturl.at/qxKS8
+    https://drive.google.com/file/d/1_ItEl2QLWhYtaTeyOP90jCZmB2ofcQW0/view?usp=drive_link
+
