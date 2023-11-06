@@ -33,17 +33,17 @@
 
 | 영문이름 (GitHub id)           | HW#1 | HW#2 | HW#3 | 최종 파일 | Reviewer |
 |------------------------|------|------|------|----------|----------|
-| Jooeun Park (jjooeun) |  |  |  |  | litcoder |
-| Jong-hyeok Oh (rojong00) |  |  |  |  | litcoder |
-| Jun Hee Na (akaError404) |  |  |  |  | litcoder |
-| Jae Byeong Park (Park-Jae-Byeong) |  |  |  |  | litcoder |
-| SeogHyun Ahn (User3198352) |  |  |  |  | litcoder |
-| Jinho Kim (0419jinho) |  |  |  |  | litcoder |
-| Yeongdae Kim (roby238) |  |  |  |  | litcoder |
-| Youngsik Cho (daron135) |  |  |  |  | litcoder |
-| Chungu Gwon (kcg0118) |  |  |  |  | litcoder |
-| Yurim Lee (66yurimi99) |  |  |  |  | litcoder |
-| SeungKwon Yu (blackgetter) |  |  |  |  | litcoder |
+| Jooeun Park (jjooeun) | O | * |  |  | litcoder |
+| Jong-hyeok Oh (rojong00) | * | * |  |  | litcoder |
+| Jun Hee Na (akaError404) | O | O |  |  | litcoder |
+| Jae Byeong Park (Park-Jae-Byeong) | O | * |  |  | litcoder |
+| SeogHyun Ahn (User3198352) | O | O |  |  | litcoder |
+| Jinho Kim (0419jinho) | O | O |  |  | litcoder |
+| Yeongdae Kim (roby238) | O | O |  |  | litcoder |
+| Youngsik Cho (daron135) | O | O |  |  | litcoder |
+| Chungu Gwon (kcg0118) | O |  |  |  | litcoder |
+| Yurim Lee (66yurimi99) | O |  |  |  | litcoder |
+| SeungKwon Yu (blackgetter) | O | O |  |  | litcoder |
 | YoungMoon Park (ParkYoungMoon) |  |  |  |  | jerry-jaeseong-lee |
 | Hyung eun Kim (khe8402) |  |  |  |  | jerry-jaeseong-lee |
 | Inseong Jeong (jis0202) |  |  |  |  | jerry-jaeseong-lee |
