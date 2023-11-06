@@ -38,7 +38,7 @@ def thread_cam1(q):
         '''
         _, frame = cap.read()
         if frame is None:
-            print("fuck in 1")
+            print("f in 1")
         #    break
 
         # TODO: HW2 Enqueue "VIDEO:Cam1 live", frame info
@@ -91,7 +91,7 @@ def thread_cam2(q):
         '''
         _, frame = cap.read()
         if frame is None:
-            print("fuck in 2")
+            print("f in 2")
     #        break
 
         # TODO: HW2 Enqueue "VIDEO:Cam2 live", frame info
