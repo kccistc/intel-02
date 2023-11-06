@@ -31,7 +31,7 @@ def thread_cam1(q):
             break
 
         # TODO: HW2 Enqueue "VIDEO:Cam1 live", frame info
-        q.put(("PUSH", frame))
+        q.put(("cam1_live", frame))
 
         # TODO: Motion detect
 
@@ -72,7 +72,7 @@ def thread_cam2(q):
             break
 
         # TODO: HW2 Enqueue "VIDEO:Cam2 live", frame info
-        q.put(("PUSH", frame))
+        q.put(("cam2_live", frame))
 
         # TODO: Detect motion
 
@@ -112,16 +112,12 @@ def main():
 
     # TODO: HW2 Create a Queue
     q = Queue()
-    q.join()
 
     # TODO: HW2 Create thread_cam1 and thread_cam2 threads and start them.
     thread1 = threading.Thread(target = thread_cam1, args = (q, ))
     thread1.start()
-    thread1.join()
-
     thread2 = threading.Thread(target = thread_cam2, args = (q, ))
     thread2.start()
-    thread2.join()
 
     lock = threading.Lock()
 
@@ -133,17 +129,10 @@ def main():
             # TODO: HW2 get an item from the queue. You might need to properly handle exceptions.
             # de-queue name and data
             try:
-                lock.acquire()
-                name, frame1 = q.get(timeout = 1)
-                lock.release()
-
-                lock.acquire()
-                name, frame2 = q.get(timeout = 1)
-                lock.release()
+                name, frame = q.get(timeout = 1)
 
             # TODO: HW2 show videos with titles of 'Cam1 live' and 'Cam2 live' respectively.
-                imshow("cam1_live", frame1)
-                imshow("cam2_live", frame2)
+                imshow(name, frame)
 
             except 1: pass
 
@@ -153,6 +142,9 @@ def main():
                 FORCE_STOP = True
 
             q.task_done()
+    
+    thread1.join()
+    thread2.join()
 
     cv2.destroyAllWindows()
 
