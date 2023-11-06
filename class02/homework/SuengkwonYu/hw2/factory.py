@@ -10,6 +10,7 @@ import numpy as np
 
 FORCE_STOP = False
 
+
 def thread_cam1(q):
     file_path = './resources/conveyor.mp4'
     cap = cv2.VideoCapture(file_path)
