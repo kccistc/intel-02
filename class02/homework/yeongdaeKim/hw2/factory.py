@@ -117,7 +117,7 @@ def main():
     # TODO: HW2 Create thread_cam1 and thread_cam2 threads and start them.
     thread1 = threading.Thread(target = thread_cam1, args = (q, ))
     thread1.start()
-    #thread1.join()
+    thread1.join()
 
     thread2 = threading.Thread(target = thread_cam2, args = (q, ))
     thread2.start()
