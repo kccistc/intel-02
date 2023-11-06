@@ -31,6 +31,5 @@ def main():
             break;
 
     Led_ctrl.close()
-
 if __name__ == "__main__":
     main()
