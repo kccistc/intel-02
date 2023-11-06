@@ -1,6 +1,7 @@
 from iotdemo import FactoryController
 
 ctrl = FactoryController('/dev/ttyACM0')
+
 flag = True
 
 def main():
