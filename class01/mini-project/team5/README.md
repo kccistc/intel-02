@@ -1,7 +1,7 @@
 # Automatic Identification System
 ##### # Oh jonghyeok, Park jooeun
 
-###### This application helps test supervisor to supervise exam candidate easier.
+######This application helps test supervisor to supervise exam candidate easier.
 ---
 
 ## Environment
@@ -160,3 +160,6 @@ cp ../../text_spotting_demo/python/* .
 ```sh
 ./run.sh
 ```
+
+## Result Image
+![Result sample](sc.png)

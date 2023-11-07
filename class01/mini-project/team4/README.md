@@ -57,4 +57,4 @@ python ./face_recognition_demo.py \
 ```
 
 ## Result Image
-![Result sample]("pictures/sample_result.png")
+![Result sample](pictures/sample_result.png)
