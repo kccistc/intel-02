@@ -4,13 +4,13 @@ Smart factory 불량 분류모델 training 결과
 ## Dataset 구조
 ```
 (.otx)$ ds_count ./splitted_dataset 2
-./splitted_dataset/: ???
-./splitted_dataset/train: ???​
-./splitted_dataset/train/<class#>: ???​
-./splitted_dataset/train/<class#>: ???​
-./splitted_dataset/val: ???
-./splitted_dataset/train/<class#>: ???​
-./splitted_dataset/train/<class#>: ???​
+./splitted_dataset/: 434
+./splitted_dataset/train: 347​
+./splitted_dataset/train/P: 182​
+./splitted_dataset/train/F: 165​
+./splitted_dataset/val: 87
+./splitted_dataset/val/P: 45​
+./splitted_dataset/val/F: 42​
 ```
 
 ## Training 결과
