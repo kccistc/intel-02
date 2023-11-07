@@ -28,5 +28,4 @@ while True:
 		
 	if (btn1==0) :
 
-	elif (btn1==1) :
-		
+	elif (btn1==1) :		
