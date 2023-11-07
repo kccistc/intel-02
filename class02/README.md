@@ -44,13 +44,13 @@
 | Chungu Gwon (kcg0118) | O |  |  |  | litcoder |
 | Yurim Lee (66yurimi99) | O |  |  |  | litcoder |
 | SeungKwon Yu (blackgetter) | O | O |  |  | litcoder |
-| YoungMoon Park (ParkYoungMoon) |  |  |  |  | jerry-jaeseong-lee |
-| Hyung eun Kim (khe8402) |  |  |  |  | jerry-jaeseong-lee |
-| Inseong Jeong (jis0202) |  |  |  |  | jerry-jaeseong-lee |
-| Gyuseung Seo (dnfm257) |  |  |  |  | jerry-jaeseong-lee |
-| hyeanhong An (simpleis6est) |  |  |  |  | jerry-jaeseong-lee |
-| JUNGJAE HAN (jungjaeJJ) |  |  |  |  | jerry-jaeseong-lee |
-| Eun Young Kim (Eun04) |  |  |  |  | jerry-jaeseong-lee |
-| Yu Nayeong (YuNayeong) |  |  |  |  | jerry-jaeseong-lee |
-| SungWoo Cho (nnonames) |  |  |  |  | jerry-jaeseong-lee |
-| ? (조퇴)  |  |  |  |  | jerry-jaeseong-lee |
+| YoungMoon Park (ParkYoungMoon) | O | * |  |  | jerry-jaeseong-lee |
+| Hyung eun Kim (khe8402) | O | * |  |  | jerry-jaeseong-lee |
+| Inseong Jeong (jis0202) | O | * |  |  | jerry-jaeseong-lee |
+| Gyuseung Seo (dnfm257) | O | O |  |  | jerry-jaeseong-lee |
+| hyeanhong An (simpleis6est) | O | O |  |  | jerry-jaeseong-lee |
+| JUNGJAE HAN (jungjaeJJ) | O | O |  |  | jerry-jaeseong-lee |
+| Eun Young Kim (Eun04) | O | O |  |  | jerry-jaeseong-lee |
+| Yu Nayeong (YuNayeong) | O | * |  |  | jerry-jaeseong-lee |
+| SungWoo Cho (nnonames) | X | X |  |  | jerry-jaeseong-lee |
+| ? (조퇴)  | - | - | - | - | jerry-jaeseong-lee |
