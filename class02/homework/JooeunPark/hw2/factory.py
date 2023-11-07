@@ -8,9 +8,9 @@ from time import sleep
 
 import cv2
 import numpy as np
-from openvino.inference_engine import IECore
+#from openvino.inference_engine import IECore
 
-from iotdemo.factory_controller import FactoryController
+from iotdemo import FactoryController
 
 FORCE_STOP = False
 
@@ -62,7 +62,7 @@ def thread_cam2(q):
 
     # TODO: HW2 Open "resources/conveyor.mp4" video clip
     cap = cv2.VideoCapture("resources/conveyor.mp4")
-    
+
     while not FORCE_STOP:
         sleep(0.03)
         _, frame = cap.read()
@@ -117,8 +117,6 @@ def main():
     work1.start()
     work2.start()
 
-    lock = threading.Lock()
-
     with FactoryController(args.device) as ctrl:
         while not FORCE_STOP:
             if cv2.waitKey(10) & 0xff == ord('q'):
@@ -127,26 +125,20 @@ def main():
             # TODO: HW2 get an item from the queue. You might need to properly handle exceptions.
             # de-queue name and data
             try:
-                lock.acquire()
-                name1, frame1 = q.get(timeout=1)
-                lock.release()
-                
-                lock.acquire()
-                name2, frame2 = q.get(timeout=1)
-                lock.release()
+                name, frame= q.get(timeout=1)
 
             # TODO: HW2 show videos with titles of 'Cam1 live' and 'Cam2 live' respectively.
-                imshow(name1, frame1)
-                imshow(name2, frame2)
+                if name:
+                    imshow(name, frame)
+                    q.task_done()
 
-            except Empty:
-                pass
             # TODO: Control actuator, name == 'PUSH'
 
                 if name == 'DONE':
                     FORCE_STOP = True
-                
-                q.task_done()
+
+            except Empty:
+                pass
 
     work1.join()
     work2.join()
