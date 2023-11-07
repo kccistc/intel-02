@@ -22,3 +22,8 @@ Smart factory 불량 분류모델 training 결과
 |MobileNet-V3-large-1x|0.989|7.8|0:00:34.079570| 16| 0.0029|
 
 ## FPS 측정 방법
+
+* import time 
+* Get start_time before compile a model
+* Get end_time after predict result
+* (formula) FPS= 1/(end_time-start-time)
