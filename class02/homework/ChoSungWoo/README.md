@@ -1,0 +1,6 @@
+# Homework
+
+...
+Arduino와 연결한 빵판에 LED 회로를 구성하고 Python으로 LED를 제어하는 코드
+...
+
