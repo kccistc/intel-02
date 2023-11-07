@@ -30,7 +30,7 @@ def thread_cam1(q):
             break
 
         # TODO: HW2 Enqueue "VIDEO:Cam1 live", frame info
-        q.put(("Cam1 live", frame))
+        q.put(("VIDEO:Cam1 live", frame))
 
         # TODO: Motion detect
 
@@ -70,7 +70,7 @@ def thread_cam2(q):
             break
 
         # TODO: HW2 Enqueue "VIDEO:Cam2 live", frame info
-        q.put(("Cam2 live", frame))
+        q.put(("VIDEO:Cam2 live", frame))
 
         # TODO: Detect motion
 
