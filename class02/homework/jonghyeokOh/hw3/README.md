@@ -25,4 +25,5 @@ Smart factory 불량 분류모델 training 결과
 ## FPS 측정 방법
 Based on 'hello_classification.py' in openvino/samples,
 get start time using time module after Loading model &
-get end time at the end of Process output part which put the etc data into log
+get end time at the end of Process output part which put the etc data into log.
+Finally get the difference between start/end time and the objective FPS is the reciprocal of the difference.
