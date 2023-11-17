@@ -45,8 +45,24 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ## Team project
 
+### Team: !(맛있으면 0 kcal)
+음식을 인식하고 해당 음식의 영양정보와 칼로리를 보여주고 기록한다.
+하루 내에 기록된 정보를 바탕으로 하루 권장 칼로리 대비 섭취 칼로리 계산을 통해 식단관리를 해준다.
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 김진호 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
+  | 박주은 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
+  | 유승권 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
+  | 오종혁 | Database 커넥션 및 pyQt 디자인을 관리한다. |
+  | 김은영 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+* Project Github : https://github.com/kocharmPrj/0kcal.git
+* 발표자료 : https://github.com/kocharmPrj/Intel-AI-Project/blob/main/0kcal.ppt
+
+
 ### Team: ZERO (Zㅔ발 Eyes Re-Open)
-졸음운전 사고 방지를 위한 운전자 모니터링 시스템(DMS) 및 자율 주행 시스템.  
+졸음운전 사고 방지를 위한 운전자 모니터링 시스템(DMS) 및 자율 주행 시스템. 
 
 * Members
   | Name | Role |
