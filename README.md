@@ -75,3 +75,19 @@ a system that converts hand-written mathematical expression on board to calculat
   | Jaebyeong Park | UI/HW design, 사용자 인터페이스/Hardware를 정의하고 구현한다. |
 * Project Github : https://github.com/Intel-Edge-AI-SW-Developers-2nd-Team-1/BoardMaestro.git
 * 발표자료 : https://github.com/Intel-Edge-AI-SW-Developers-2nd-Team-1/BoardMaestro/doc/slide.ppt
+
+
+### Team: Watchdogs
+거리에 있는 CCTV를 이용하여 트래픽에 따른 신호등 제어 및 각종 사건사고 감지
+
+
+* Members
+  | Name | Role |
+  |----|----|
+  | 장석환 | AI_modeling, 사고분석 ai 학습 및 개발1 |
+  | 김승현 | AI_modeling, 사고분석 ai 학습 및 개발2 |
+  | 김형은 | 문서 제작 및 ppt제작,발표|
+  | 서규승 | AI_modeling, 교통통제 및 project maneger|
+  | 조성우 | edge_device_control, 신호등 및 raspberry cam제어 |
+* Project Github : https://github.com/dnfm257/cctv_ctrl.git
+* 발표자료 : https://github.com/dnfm257/cctv_ctrl/blob/main/doc/cctv_ctrl_ppt.pptx
