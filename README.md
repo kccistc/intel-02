@@ -45,22 +45,21 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ## Team project
 
-### Team: 뭔가 센스있는 팀명
-<프로젝트 요약>
+### Team: ZERO (Zㅔ발 Eyes Re-Open)
+졸음운전 사고 방지를 위한 운전자 모니터링 시스템(DMS) 및 자율 주행 시스템.  
 
 * Members
   | Name | Role |
   |----|----|
-  | 채치수 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 송태섭 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 정대만 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-  | 채소연 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 권준호 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-* Project Github : https://github.com/goodsense/project_awesome.git
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+  | 이유림 | 팀장. 서버 및 통신 (DB 설계 / 통신 API / 컨테이너 환경 구축) |
+  | 나준희 | 자율 주행 시스템 (엣지 디바이스 제어 및 주행) |
+  | 박영문 | 자율 주행 시스템 (Segmentation / 주행 방향 결정 알고리즘) |
+  | 유나영 | 자율 주행 시스템 (Segmentation / 주행 방향 결정 알고리즘) |
+  | 정인성 | DMS 시스템 (AI Modeling) |
+  | 조영식 | 모니터링 시스템 시각화(Qt) |
+* Project Github : https://github.com/66yurimi99/Z-ERO.git
+* 발표자료 : https://github.com/66yurimi99/Z-ERO/doc/slide.ppt
 
-
-## Team project
 
 ### Team: Board Maestro
 a system that converts hand-written mathematical expression on board to calculated result.
@@ -76,4 +75,3 @@ a system that converts hand-written mathematical expression on board to calculat
   | Jaebyeong Park | UI/HW design, 사용자 인터페이스/Hardware를 정의하고 구현한다. |
 * Project Github : https://github.com/Intel-Edge-AI-SW-Developers-2nd-Team-1/BoardMaestro.git
 * 발표자료 : https://github.com/Intel-Edge-AI-SW-Developers-2nd-Team-1/BoardMaestro/doc/slide.ppt
-
