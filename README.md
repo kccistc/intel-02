@@ -46,7 +46,6 @@ $ find ./ -iname *.bin|xargs ls -l
 ## Team project
 
 ### Team: ZERO (Zㅔ발 Eyes Re-Open)
-<프로젝트 요약>  
 졸음운전 사고 방지를 위한 운전자 모니터링 시스템(DMS) 및 자율 주행 시스템.  
 
 * Members
@@ -60,3 +59,19 @@ $ find ./ -iname *.bin|xargs ls -l
   | 조영식 | 모니터링 시스템 시각화(Qt) |
 * Project Github : https://github.com/66yurimi99/Z-ERO.git
 * 발표자료 : https://github.com/66yurimi99/Z-ERO/doc/slide.ppt
+
+
+### Team: Board Maestro
+a system that converts hand-written mathematical expression on board to calculated result.
+
+* Members
+  | Name | Role |
+  |----|----|
+  | Yeongdae Kim | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
+  | Seokhyun Ahn | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
+  | Hyunhong Ahn | Data preprocessing, subsystem의 connection을 구성하고 preprocessing을 책임진다. |
+  | Chungu Gwon | AI modeling, 원하는 결과가 나오도록 AI model을 선택, training을 수행한다. |
+  | Jungjae Han | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, inference를 수행한다. |
+  | Jaebyeong Park | UI/HW design, 사용자 인터페이스/Hardware를 정의하고 구현한다. |
+* Project Github : https://github.com/Intel-Edge-AI-SW-Developers-2nd-Team-1/BoardMaestro.git
+* 발표자료 : https://github.com/Intel-Edge-AI-SW-Developers-2nd-Team-1/BoardMaestro/doc/slide.ppt
