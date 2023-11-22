@@ -32,27 +32,39 @@
 
 * HW#1 : my-project github repository 제출
 * HW#2 : [https://github.com/kccistc/intel-02/issues/5](https://github.com/kccistc/intel-02/issues/5)
+* HW#3 : https://github.com/kccistc/intel-02/milestone/3
+* HW#4 : https://github.com/kccistc/intel-02/milestone/4
 
-| 영문이름 (GitHub id)           | HW#1 | HW#2 | HW#3 | 최종 파일 | Reviewer |
+| 영문이름 (GitHub id)           | HW#1 | HW#2 | HW#3 | HW#4 | Reviewer |
 |------------------------|------|------|------|----------|----------|
-| Jooeun Park (jjooeun) | O | O |  |  | Max |
-| Jong-hyeok Oh (rojong00) | O | O |  |  | Max |
-| Jun Hee Na (akaError404) | O | O |  |  | Max |
-| Jae Byeong Park (Park-Jae-Byeong) | O | O |  |  | Max |
-| SeogHyun Ahn (User3198352) | O | O |  |  | Max |
-| Jinho Kim (0419jinho) | O | O |  |  | Max |
-| Yeongdae Kim (roby238) | O | O |  |  | Max |
-| Youngsik Cho (daron135) | O | O |  |  | Max |
-| Chungu Gwon (kcg0118) | O | O |  |  | Max |
-| Yurim Lee (66yurimi99) | O | O |  |  | Max |
-| SeungKwon Yu (blackgetter) | O | O |  |  | Max |
-| YoungMoon Park (ParkYoungMoon) | O | * |  |  | Gabriel |
-| Hyung eun Kim (khe8402) | O | * |  |  | Gabriel |
-| Inseong Jeong (jis0202) | O | O |  |  | Gabriel |
-| Gyuseung Seo (dnfm257) | O | O |  |  | Gabriel |
-| hyeanhong An (simpleis6est) | O | O |  |  | Gabriel |
-| JUNGJAE HAN (jungjaeJJ) | O | O |  |  | Gabriel |
-| Eun Young Kim (Eun04) | * | * |  |  | Gabriel |
-| Yu Nayeong (YuNayeong) | O | O |  |  | Gabriel |
-| SungWoo Cho (nnonames) | * | * |  |  | Gabriel |
-| ? (조퇴)  | X | X |  |  | Gabriel |
+| Jooeun Park (jjooeun) | O | O | O | O | Max |
+| Jonghyeok Oh (rojong00) | O | O | X | O | Max |
+| Junhee Na (akaError404) | O | O | O | O | Max |
+| Jaebyeong Park (Park-Jae-Byeong) | O | O | O | O | Max |
+| SeogHyun Ahn (User3198352) | O | O | O | O | Max |
+| Jinho Kim (0419jinho) | O | O | O | O | Max |
+| Yeongdae Kim (roby238) | O | O | O | O | Max |
+| Youngsik Cho (daron135) | O | O | X | O | Max |
+| Chungu Gwon (kcg0118) | O | O | O | O | Max |
+| Yurim Lee (66yurimi99) | O | O | O | O | Max |
+| Seunghwon Yu (blackgetter) | O | O | O | O | Max |
+| Youngmoon Park (ParkYoungMoon) | O | X | O | O | Gabriel |
+| Hyungeun Kim (khe8402) | O | X | X | X | Gabriel |
+| Inseong Jeong (jis0202) | O | O | O | O | Gabriel |
+| Gyuseung Seo (dnfm257) | O | O | O | O | Gabriel |
+| hyeanhong An (simpleis6est) | O | O | O | O | Gabriel |
+| Jungjae Han (jungjaeJJ) | O | O | O | O | Gabriel |
+| Eunyoung Kim (Eun04) | X | X | O | O | Gabriel |
+| Nayeong Yu (YuNayeong) | O | O | O | O | Gabriel |
+| SungWoo Cho (nnonames) | X | X | X | X | Gabriel |
+| SukHwan Jang (JSHTIRED) | X | X | X | X | Gabriel |
+
+### Mini Projects
+* [Team1: Target-Person-Tracking-System](mini-project/team1/README.md)
+* [Team2: Hand Written Equation Calculator](mini-project/team2/README.md)
+* [Team3: Car License Plate Recognition](mini-project/team3/README.md)
+* [Team4: Look at me](mini-project/team4/README.md)
+* [Team5: Automatic Identification System](mini-project/team5/README.md)
+* [Team6: Emotion Challenge](mini-project/team6/README.md)
+* [Team7: Population Density Checker](mini-project/team7/README.md)
+
