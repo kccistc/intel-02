@@ -34,16 +34,16 @@
 | 영문이름 (GitHub id)           | HW#1 | HW#2 | HW#3 | 최종 파일 | Reviewer |
 |------------------------|------|------|------|----------|----------|
 | Jooeun Park (jjooeun) | O | O | O | O | litcoder |
-| Jong-hyeok Oh (rojong00) | O | O | O | X | litcoder |
-| Jun Hee Na (akaError404) | O | O | O | X | litcoder |
+| Jong-hyeok Oh (rojong00) | O | O | O | * | litcoder |
+| Jun Hee Na (akaError404) | O | O | O | * | litcoder |
 | Jae Byeong Park (Park-Jae-Byeong) | O | O | O | O | litcoder |
-| SeogHyun Ahn (User3198352) | O | O | O | X | litcoder |
+| SeogHyun Ahn (User3198352) | O | O | O | * | litcoder |
 | Jinho Kim (0419jinho) | O | O | O | O | litcoder |
 | Yeongdae Kim (roby238) | O | O | O | O | litcoder |
 | Youngsik Cho (daron135) | O | O | O | O | litcoder |
 | Chungu Gwon (kcg0118) | O | O | O | O | litcoder |
-| Yurim Lee (66yurimi99) | O | O | O | X | litcoder |
-| SeungKwon Yu (blackgetter) | O | O | O | X | litcoder |
+| Yurim Lee (66yurimi99) | O | O | O | * | litcoder |
+| SeungKwon Yu (blackgetter) | O | O | O | * | litcoder |
 | YoungMoon Park (ParkYoungMoon) | O | O | * | * | jerry-jaeseong-lee |
 | Hyung eun Kim (khe8402) | O | O | X | X | jerry-jaeseong-lee |
 | Inseong Jeong (jis0202) | O | O | O | O | jerry-jaeseong-lee |
