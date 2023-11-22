@@ -53,4 +53,4 @@
 | Eun Young Kim (Eun04) | O | O | O | * | jerry-jaeseong-lee |
 | Yu Nayeong (YuNayeong) | O | O | O | O | jerry-jaeseong-lee |
 | SungWoo Cho (nnonames) | O | X | X | X | jerry-jaeseong-lee |
-| ? (조퇴)  | - | - | - | - | jerry-jaeseong-lee |
+| SukHwan Jang (JSHTIRED) | X | X | X | X | jerry-jaeseong-lee |
